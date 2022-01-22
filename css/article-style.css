@@ -187,6 +187,12 @@ main .article {
     line-height: 2;
 }
 
+main img {
+    width: 40%;
+    height: auto;
+    margin: 20px 10%;
+}
+
 .article-pagination {
     margin-top: 40px;
     position: relative;
